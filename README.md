@@ -1,1 +1,1 @@
-# intro-to-data-science-project-01
+# Introduction to data science course project
