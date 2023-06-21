@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 fire_history.csv
 
+.vscode/settings.json
