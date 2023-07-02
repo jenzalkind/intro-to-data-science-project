@@ -168,3 +168,4 @@ fire_history_data_conv.csv
 fire_history_additional.csv
 fire_history_outliers_removed.csv
 fire_history_prep.csv
+fire_history_with_weather.csv
