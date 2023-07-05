@@ -170,3 +170,6 @@ fire_history_outliers_removed.csv
 fire_history_prep.csv
 fire_history_with_weather.csv
 fire_history_final.csv
+after_outliers.png
+after_validation_zoomin.png
+after_validation.png
